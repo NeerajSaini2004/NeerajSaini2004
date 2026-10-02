@@ -1,5 +1,18 @@
-## Hi there 👋
-# 👋 Hi, I'm Neeraj Saini
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=220&section=header&text=Neeraj%20Saini&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20MERN%20Stack%20%7C%20JavaScript&descAlignY=60&descSize=18" width="100%"/>
+
+</div>
+
+<div align="center">
+
+### 👋 Welcome to my GitHub!
+
+**I build practical web applications and turn ideas into real-world projects.**
+
+</div>
+
+<br>
 
 ### 🚀 Full-Stack Developer | MERN Stack | JavaScript
 
